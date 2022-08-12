@@ -44,4 +44,25 @@
 	{
 		width: auto;
 	}
+	.video-container
+	{
+		height: 100%;
+	}
+	.video-container video
+	{
+		width: auto;
+	}
+	.bg-1
+	{
+		padding-bottom: 50px;
+		padding-top: 50px;
+	}
+	.footer-menu li a
+	{
+		font-size: 14px;
+	}
+	.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video
+	{
+		width: auto !important;
+	}
 }
